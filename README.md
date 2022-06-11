@@ -9,7 +9,7 @@
 - Using stereotype annotations
 - Programmatically (example below)
 
-```
+``` java
 public class Parrot {
 
     private String name;
@@ -24,7 +24,7 @@ public class Parrot {
 }
 ```
 
-```
+``` java
 public class Main {
 
     public static void main(String[] args) {
